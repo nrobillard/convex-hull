@@ -1,5 +1,6 @@
 % CSC 440 Assignment 2: Convex Hull
 
+Credit To Professor Noah Daniels for the starter code and GUI
 
 # Introduction
 
