@@ -1,6 +1,8 @@
 % CSC 440 Assignment 2: Convex Hull
 
 Credit To Professor Noah Daniels for the Benchmarking code, The testing code and GUI
+To run the code with the GUI run
+python3 draw_hull.py
 
 # Introduction
 
